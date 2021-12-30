@@ -1,0 +1,17 @@
+C:\AulaFiap\opeLogico\opeLogico\bin\Debug\net6.0-windows\opeLogico.exe
+C:\AulaFiap\opeLogico\opeLogico\bin\Debug\net6.0-windows\opeLogico.deps.json
+C:\AulaFiap\opeLogico\opeLogico\bin\Debug\net6.0-windows\opeLogico.runtimeconfig.json
+C:\AulaFiap\opeLogico\opeLogico\bin\Debug\net6.0-windows\opeLogico.dll
+C:\AulaFiap\opeLogico\opeLogico\bin\Debug\net6.0-windows\ref\opeLogico.dll
+C:\AulaFiap\opeLogico\opeLogico\bin\Debug\net6.0-windows\opeLogico.pdb
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.csproj.AssemblyReference.cache
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.Form1.resources
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.csproj.GenerateResource.cache
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.AssemblyInfoInputs.cache
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.AssemblyInfo.cs
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.csproj.CoreCompileInputs.cache
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.dll
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\ref\opeLogico.dll
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.pdb
+C:\AulaFiap\opeLogico\opeLogico\obj\Debug\net6.0-windows\opeLogico.genruntimeconfig.cache
